@@ -8,7 +8,7 @@ Usage guidelines:-
 '        
         public class TestData : ITokenizable
         {
-            [Token('v', 8)]
+            [Token(\'v\', 8)]
             public string V { get; set; }
 
             [Token('p', 4)]
