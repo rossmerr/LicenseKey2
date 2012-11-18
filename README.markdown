@@ -5,9 +5,9 @@ It consistes of a simplified Factgory to make generating key’s programticlly e
 
 Usage guidelines:- 
 
-'public class TestData : ITokenizable
+''public class TestData : ITokenizable
         {
-            [Token(''v'', 8)]
+            [Token('v', 8)]
             public string V { get; set; }
 
             [Token('p', 4)]
@@ -25,7 +25,7 @@ Usage guidelines:-
             [Token('r', 4)]
             public string R { get; set; }
         }
-'
+''
 
 # Important Notice
 
