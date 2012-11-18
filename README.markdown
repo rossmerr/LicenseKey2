@@ -5,6 +5,28 @@ It consistes of a simplified Factgory to make generating key’s programticlly e
 
 Usage guidelines:- 
 
+'        
+        public class TestData : ITokenizable
+        {
+            [Token('v', 8)]
+            public string V { get; set; }
+
+            [Token('p', 4)]
+            public string P { get; set; }
+
+            [Token('w', 4)]
+            public string W { get; set; }
+
+            [Token('s', 8)]
+            public string S { get; set; }
+
+            [Token('c', 8)]
+            public string C { get; set; }
+
+            [Token('r', 4)]
+            public string R { get; set; }
+        }
+'
 
 # Important Notice
 
