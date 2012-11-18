@@ -1,4 +1,5 @@
-LicenseKey2 is a simple update to Don Sweitzer [License Key Generation](http://www.codeproject.com/Articles/11012/License-Key-Generation)
+# LicenseKey2 
+Is a simple update to Don Sweitzer [License Key Generation](http://www.codeproject.com/Articles/11012/License-Key-Generation)
 
 It consistes of a simplified Factgory to make generating key’s programticlly eaiser as well as a cleanup in the code base to .Net 4
 
