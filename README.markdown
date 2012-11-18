@@ -51,7 +51,7 @@ Generating the key
         var gkey = gen.Generate(test);
         var finalkey = gkey.CreateKey();
         
-Given you the following key: 34600-80002-AB000-001RSd-00003
+Giving you the following key: 34600-80002-AB000-001RSd-00003
 
 # Important Notice
 
