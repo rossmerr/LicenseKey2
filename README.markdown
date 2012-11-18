@@ -1,7 +1,7 @@
 # LicenseKey2 
 Is a simple update to Don Sweitzer [License Key Generation](http://www.codeproject.com/Articles/11012/License-Key-Generation)
 
-It consistes of a simplified factory to make generating key’s programticlly eaiser as well as a cleanup in the code base to .Net 4
+It consistes of a simplified factory to make generating key’s programticlly eaiser as well as a cleanup in the code base to .Net 4.5
 
 Usage guidelines:- 
 
